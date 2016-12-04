@@ -1,0 +1,19 @@
+Here we have a picture depicting the different types of softwares as spoken in the licensing domain.
+
+The two main branches are Propreitory software and Open Source Software
+
+Under Open Source Software we have:
+	- CopyLeft 
+		Copyleft (a play on the word copyright) is the practice of offering people the right to freely distribute copies and modified versions of a work with the stipulation that the same rights be preserved in derivative works down the line. Which means that if a particular software is copylefted then any work derived from this software should also be copylefted.
+	- Public Domain
+		Works in the public domain are those whose exclusive intellectual property rights have expired,[1] have been forfeited,[2] or are inapplicable.
+		Public domain software is software that has been donated to the public domain by its copyright holder. Thus it is no longer copyrighted. Consequently, such software is completely free and can be used by anybody for any purpose without restriction.
+		Typically if a software is in the public domain, it is not needed to have a license.
+		So, when a license would be needed, we have alternate licenses similar to the above like creative commons, WTFPL, the unlicense.
+	- Free Software:
+		Free and open-source software (FOSS) is computer software that can be classified as both free software and open-source software.[a] That is, anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.
+		
+What is proprietary software:
+	Proprietary software is software that is owned by an individual or a company (usually the one that developed it). There are almost always major restrictions on its use, and its source code is almost always kept secret.
+	
+	The restrictions on the use of proprietary software are usually enumerated in the end user license agreements (EULAs) that users must consent to.
